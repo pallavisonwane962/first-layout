@@ -1,0 +1,38 @@
+ .row1{
+    font-size: 2rem;
+   
+ }
+ h3{
+    padding:1rem;
+}
+p{
+    padding: 1rem;
+}
+.btn-group{
+    padding: 1rem;
+}
+.box{
+    height: 8rem;
+    margin-bottom: 1rem;
+}
+h2{
+    margin: 2rem;
+}
+h6{
+    margin: 2rem;
+}
+li{
+    margin: 1rem;
+}
+.footer{
+    font-size: 1rem;
+    text-align: center;
+}
+.img1{
+    height: 10rem;
+    width: 20rem;
+    margin: 1rem;
+}
+.offcan{
+    margin-bottom: 1rem;
+}
